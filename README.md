@@ -1,2 +1,4 @@
 # udacity_self_driving
-General Repo for UDacity Self Driving Course
+sugang
+
+Repo for the Udacity Self-driving engineer course
